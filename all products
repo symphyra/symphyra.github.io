@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Our Products</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Our Products</h2>
+        
+        <div class="row">
+            <!-- Product 1 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/sympara-650.jpg" class="card-img-top" alt="Sympara-650">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Sympara-650</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 2 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/azisym-250.jpg" class="card-img-top" alt="Azisym-250">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Azisym-250</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 3 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/azisym-500.jpg" class="card-img-top" alt="Azisym-500">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Azisym-500</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 4 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/symace.jpg" class="card-img-top" alt="SYMACE-P">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">SYMACE-P</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 5 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/symdic.jpg" class="card-img-top" alt="SYMDIC-P">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">SYMDIC-P</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 6 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/symcold.jpg" class="card-img-top" alt="SYMCOLD">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">SYMCOLD</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 7 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/pantasym.jpg" class="card-img-top" alt="PANTASYM-DSR">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">PANTASYM-DSR</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 8 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/rabesym.jpg" class="card-img-top" alt="RABESYM-DSR">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">RABESYM-DSR</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 9 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/syfi-200.jpg" class="card-img-top" alt="SYFI-200">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">SYFI-200</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 10 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/Symik-625.jpg" class="card-img-top" alt="SYMIK-625">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">SYMIK-625</h5>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 11 -->
+            <div class="col-md-4 col-sm-6 mb-4">
+                <div class="card">
+                    <img src="images/productimage/levosym.jpg" class="card-img-top" alt="LEVOSYM-M">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">LEVOSYM-M</h5>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
